@@ -1,7 +1,7 @@
 What to do 
 npm init -y
 npm install express
-
+npm install axiom
 copy paste files into ur folder
 
 start server via
