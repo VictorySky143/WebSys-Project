@@ -1,2 +1,2 @@
 # WebSys-Project
-Rudimentary case handler
+Rudimentary inventory handler
